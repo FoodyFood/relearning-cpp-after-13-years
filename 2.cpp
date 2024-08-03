@@ -3,8 +3,8 @@
 #include "2-1.cpp"
 
 int main(){
-    basic_string<char> current_time;
+    string current_time;
     foo(&current_time);
-    std::cout << current_time << std::endl;
+    std::cout << "" << current_time << std::endl;
     return 0;
 }

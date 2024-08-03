@@ -1,5 +1,6 @@
 #include <ctime>
 #include <string>
+#include "2-1.h"
 
 using namespace std;
 
