@@ -13,4 +13,5 @@ void recursive(int start, int limit){
 
 int main(){
     recursive(1, 5);
+    return 0;
 }
