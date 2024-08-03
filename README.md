@@ -2,5 +2,5 @@
 
 Dont look too closely, learning in progress.
 
-The files are numbered by days, but they are non sequiter and few and far, this is not calendar time.
+The files are numbered by days, but they are non sequitur and few and far, this is not calendar time.
 
